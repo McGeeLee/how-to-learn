@@ -4,6 +4,8 @@
 
 书目信息与链接核验于 2026 年 10 月 8 日。中文书名仅为意译，未核验对应中译本的出版情况、版本或译文质量。
 
+其中前两本已有[中文逐章笔记与主题导航](notes/README.md)，可结合原书章节阅读。
+
 ## 1. Learning as a Generative Activity: Eight Learning Strategies That Promote Understanding
 
 **中文意译：**《学习作为生成性活动：促进理解的八种学习策略》

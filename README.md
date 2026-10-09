@@ -2,6 +2,16 @@
 
 从认知心理学、教育心理学和学习科学的学术研究出发，理解学习机制，评估学习方法，并整理自己的阅读笔记。
 
+## 逐章阅读笔记
+
+已整理两本书的38篇中文章节笔记，分别记录理论机制、代表性研究、适用条件与个人学习启发，并提供原书印刷页和PDF文件页定位。
+
+- [Learning as a Generative Activity：10章](notes/generative-learning/README.md)
+- [The Cambridge Handbook of Cognition and Education：导论与27章](notes/cognition-education/README.md)
+- [笔记方法与按问题查阅的导航](notes/README.md)
+
+笔记依据2015和2019版本的正文整理；原论文主要通过书中综述了解，出版后的研究尚未系统补充。
+
 ## 从哪里开始
 
 [学术书目与阅读建议](reading-list.md)收录五本已核验官方书目信息的教材、研究专著与研究综述。
@@ -33,9 +43,11 @@
 ├── README.md                    # 仓库说明
 ├── reading-list.md              # 学术书目与阅读建议
 ├── notes/
-│   └── README.md                # 阅读笔记索引
+│   ├── README.md                # 笔记方法与主题导航
+│   ├── generative-learning/     # 生成学习：10章笔记与目录
+│   └── cognition-education/    # 认知与教育：导论、27章笔记与目录
 └── templates/
     └── reading-note.md          # 阅读笔记模板
 ```
 
-仓库目前包含起始书目和笔记模板，阅读笔记在实际阅读后逐步补充。
+后续可以继续补充原论文的独立阅读笔记，并将新证据与书中结论进行比较。
